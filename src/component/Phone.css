@@ -1,0 +1,21 @@
+.img2 {
+  width: 170px;
+}
+.Phones {
+  position: relative;
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.PhoneName {
+  margin-bottom: 10px;
+}
+.addToCart {
+  background-color: rgba(53, 124, 231, 0.863);
+  border: none;
+  color: white;
+  position: absolute;
+  left: 70px;
+  bottom: -20px;
+  margin-bottom: 20px;
+}

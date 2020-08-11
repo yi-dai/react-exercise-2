@@ -1,0 +1,12 @@
+.navigation {
+  background-color: rgba(53, 124, 231, 0.863);
+  color: white;
+  padding: 15px;
+  align-items: center;
+}
+.img1 {
+  position: absolute;
+  top: 100px;
+  right: 720px;
+  width: 1.5%;
+}
